@@ -87,6 +87,8 @@ Right to Information: Be informed about data sharing with third parties
 
 Our Service is not intended for children under 13 years of age (or 16 in certain jurisdictions). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately.
 
+9. Third-Party AI Service (Online Mode)
+When using Online mode, your voice recording transcript (text only) is transmitted to Anthropic, Inc. (anthropic.com) for AI-powered analysis. No audio is ever transmitted. Anthropic does not use this data to train its AI models. Data is encrypted in transit using TLS. Anthropic is GDPR and SOC 2 compliant. You can review Anthropic's privacy policy at anthropic.com/privacy.
 Contact Us
 
 If you have any questions about this Privacy Policy, please contact us:
