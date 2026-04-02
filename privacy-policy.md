@@ -4,7 +4,7 @@ Last updated: January 21, 2026
 
 1. Introduction
 
-Talkscribe ("we", "us", or "our") operates https://talkscribe.carrd.co/ (the "Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+NotedUp ("we", "us", or "our") operates https://NotedUp.carrd.co/ (the "Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
 
 Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.
 
@@ -94,7 +94,7 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
 Email: jameslangston875@gmail.com
-Website: https://talkscribe.carrd.co/
+Website: https://NotedUp.carrd.co/
 Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date at the top of this policy.
